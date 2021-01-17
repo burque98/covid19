@@ -1,4 +1,4 @@
-Feature: ready for execution
+Feature: ready for execution.
   In order to realize a named business value
   As an explicit system actor
   I want to gain some beneficial outcome which furthers the goal
